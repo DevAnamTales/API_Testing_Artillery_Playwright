@@ -2,6 +2,10 @@
 
 This workshop centered on conducting realistic load testing for the Mataffären web application by combining Artillery with Playwright.
 
+# How to setup
+ **Clone repo**:
+git clone <your-repository-url>
+
  **Install Dependencies**:
 Ensure that you have Node.js installed, then install the required packages:
 
