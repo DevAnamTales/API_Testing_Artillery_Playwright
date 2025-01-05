@@ -1,4 +1,4 @@
-*** Realistic load testing with Artillery and Playwright***
+# Realistic Load Testing with Artillery and Playwright
 
 This workshop centered on conducting realistic load testing for the Mataffären web application by combining Artillery with Playwright.
 
