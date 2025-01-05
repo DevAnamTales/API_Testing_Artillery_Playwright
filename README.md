@@ -4,7 +4,10 @@ This workshop centered on conducting realistic load testing for the Mataffären 
 
 # How to setup
  **Clone repo**:
+ 
+ ```bash
 git clone <your-repository-url>
+```
 
  **Install Dependencies**:
 Ensure that you have Node.js installed, then install the required packages:
