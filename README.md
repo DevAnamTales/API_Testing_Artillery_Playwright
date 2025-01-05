@@ -1,3 +1,7 @@
+*** Realistic load testing with Artillery and Playwright***
+
+This workshop centered on conducting realistic load testing for the Mataffären web application by combining Artillery with Playwright.
+
  **Install Dependencies**:
 Ensure that you have Node.js installed, then install the required packages:
 
@@ -25,7 +29,7 @@ Open another terminal window and run the load test:
 npm run load-test
 ```
 
-6. **Run the Load Test with Artillery and Playwright**:
+**Run the Load Test with Artillery and Playwright**:
 
 ```bash
 npm run playwright-test
